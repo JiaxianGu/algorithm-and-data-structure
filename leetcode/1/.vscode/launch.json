@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "1_201b0339"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "1_201b0339"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "1_201b0339"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - two_sum",
+            "request": "launch",
+            "mainClass": "two_sum",
+            "projectName": "1_201b0339"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
